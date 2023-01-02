@@ -32,6 +32,8 @@ a página, não tem problema, pois os dados estão persistidos em localStorage
 e as informações continuarão sendo exibidas quando ele abrir novamente a 
 página!
 
+<br><br>
+
 ![12](https://user-images.githubusercontent.com/101338996/210233314-593b8886-ad58-4d9f-98a3-8a89568c61ba.png)
 ![13](https://user-images.githubusercontent.com/101338996/210233323-d33749c2-d63a-419a-9f69-44ca5bd8e4dc.png)
 
